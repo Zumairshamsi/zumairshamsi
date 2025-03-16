@@ -1,4 +1,4 @@
-<h5 align="left">Hi! I'm Zumair</h5>
+<h2 align="left">Hi! I'm Zumair</h2>
 
 ###
 
@@ -12,8 +12,7 @@
 <img align="right" height="150" src="https://i.seadn.io/gae/uc4_eg8AXf0VsbCmWoZiw8Y3Ho-jHEWPCuTMPEZC7cPwQO7UtP9ihNCYnmsWUeTTuMqooeuRfxenfFthSV4zwW5hSug-smUy-n0Izg?auto=format&dpr=1&w=1000"  />
 
 ###
-``My Tech Stack``
-<p align="left">My tech stack</p>
+<h3 align="left">My tech stack</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
