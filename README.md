@@ -12,8 +12,8 @@
 <img align="right" height="150" src="https://i.seadn.io/gae/uc4_eg8AXf0VsbCmWoZiw8Y3Ho-jHEWPCuTMPEZC7cPwQO7UtP9ihNCYnmsWUeTTuMqooeuRfxenfFthSV4zwW5hSug-smUy-n0Izg?auto=format&dpr=1&w=1000"  />
 
 ###
-<h3 align="left">My tech stack</h3>
 <div align="left">
+  <h3 align="left">My Tech Stack:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -28,6 +28,7 @@
 ###
 
 <div align="left">
+  <h3 align="left">My Socials:</h3>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
