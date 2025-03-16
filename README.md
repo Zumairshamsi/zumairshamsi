@@ -12,8 +12,8 @@
 <img align="right" height="150" src="https://i.seadn.io/gae/uc4_eg8AXf0VsbCmWoZiw8Y3Ho-jHEWPCuTMPEZC7cPwQO7UtP9ihNCYnmsWUeTTuMqooeuRfxenfFthSV4zwW5hSug-smUy-n0Izg?auto=format&dpr=1&w=1000"  />
 
 ###
+<h3 align="left">My Tech Stack:</h3>
 <div align="left">
-  <h3 align="left">My Tech Stack:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -27,8 +27,8 @@
 
 ###
 
+<h3 align="left">My Socials:</h3>
 <div align="left">
-  <h3 align="left">My Socials:</h3>
   <a href="https://www.linkedin.com/in/zumair-shamsi-305400249/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
