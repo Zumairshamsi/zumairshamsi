@@ -34,8 +34,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zumairshamsi/zumairshamsi/output/snake.svg" alt="Snake animation" />
-
-###
