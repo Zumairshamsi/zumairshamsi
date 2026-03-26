@@ -13,10 +13,10 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,github,git,kali,ps,ai,figma,canva)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,github,git,ps,ai,figma,canva)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=py,ae,wireshark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=py,kali,ae)](https://skillicons.dev)
 
 
 ### Connect with me!
