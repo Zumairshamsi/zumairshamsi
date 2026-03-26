@@ -22,12 +22,8 @@
 ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/zumair-shamsi/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
     </a>
-    <a href="https://dev.to/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
-    </a>
-    
 </div>
 
 <!--
